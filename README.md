@@ -1,0 +1,2 @@
+# instagramFollowerBot
+This bot can help find more followers by following audience with similar interests as your page by providing name of the page that has similar demographics. The bot will automatically login to instagram and go to the target account(provide account with large number of followers) and follow all the followers one by one. It will ignore any followers that you are already following.
